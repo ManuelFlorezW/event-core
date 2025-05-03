@@ -1,6 +1,6 @@
 {
   "name": "@manuelflorezw/event-core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple JavaScript library for implementing the evetns",
   "main": "dist/index.js",
   "repository": {
