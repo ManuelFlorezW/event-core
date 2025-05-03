@@ -3,6 +3,14 @@
   "version": "0.0.2",
   "description": "A simple JavaScript library for implementing the evetns",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelFlorezW/event-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ManuelFlorezW/event-core/issues"
+  },
+  "homepage": "https://github.com/ManuelFlorezW/event-core#readme",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
